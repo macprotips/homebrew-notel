@@ -1,6 +1,6 @@
 cask "notel" do
-  version "1.3.2"
-  sha256 "06968eb995ec440345fc9c88f56596654b5ffc25ae6f5a0101fe702d7df79f61"
+  version "1.3.3"
+  sha256 "e46cf6a5217b21e1647186290496749facd299d5cdb1d632d527fce9d22a0442"
 
   url "https://github.com/macprotips/notel-updates/releases/download/v#{version}/Notel.dmg"
   name "Notel"
